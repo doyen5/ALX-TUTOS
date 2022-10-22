@@ -1,0 +1,29 @@
+token : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+git add .
+git commit -m 'message à mettre'
+git push
+**********************************************************************
+vi 1-compiler
+chmod u+x 1-compiler OK
+
+vi 2-assembler
+chmod u+x 2-assembler OK
+
+vi 3-name
+chmod u+x 3-name OK
+
+vi 4-puts.c
+chmod u+x 4-puts.c
+
+
+vi 5-printf.c
+chmod u+x 5-printf.c
+
+vi 6-size.c
+chmod u+x 6-size.c
+
+vi 100-intel
+chmod u+x 100-intel
+
+vi 101-quote.c
+chmod u+x 101-quote.c
